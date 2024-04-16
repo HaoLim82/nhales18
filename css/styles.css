@@ -53,7 +53,7 @@
       grid-area: main; 
     }
     .foto { grid-area: foto;
-    background-image: url(/pics/Aerial_Twente_\(6781751906\)_\(cropped\).jpg); 
+    background-image: url(https://haolim82.github.io/nhales18/pics/Aerial_Twente_\(6781751906\)_\(cropped\).jpg); 
     background-size: cover;
     background-position: center fixed;
     border-radius: 20%;}
@@ -66,7 +66,7 @@
         font-size: 4em;
         text-align: center;
         background-color: rgb(226, 43, 43);
-        background-image: url(/pics/Onweer-scaled.jpg) ;
+        background-image: url(https://haolim82.github.io/nhales18/pics/Onweer-scaled.jpg) ;
         background-size: 45%;
         background-repeat: no-repeat;
         background-position: center;
